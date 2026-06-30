@@ -55,3 +55,8 @@ go.work.sum
 # local frontend workspace
 vite.local.ts
 tsconfig.local.json
+
+
+# Added by cargo
+
+/target
