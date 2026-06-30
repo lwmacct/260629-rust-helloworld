@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "lwmacct-260629-rust-helloworld"
-version = "0.1.0"
+version = "0.4.260630"
